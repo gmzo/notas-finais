@@ -7,7 +7,7 @@ public class Student {
 	private double gradeSecondQuarter;
 	private double gradeThirdQuarter;
 
-	// Construtores
+	// construtores
 	public Student() {
 
 	}
@@ -20,7 +20,7 @@ public class Student {
 		this.gradeThirdQuarter = gradeThirdQuarter;
 	}
 
-	// Getters e setters
+	// getters e setters
 	public String getName() {
 		return name;
 	}
